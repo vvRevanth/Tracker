@@ -1,0 +1,20 @@
+/* src/styles/App.css */
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: row;
+    /* align-items: ce; */
+    gap: 20px;
+    padding: 20px;
+  }
+  
